@@ -33,21 +33,40 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
+
+![Screenshot 2024-03-19 093552](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/dfa6bfed-c6a5-4949-9a94-f37ff8d6cff7)
+
+
+
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
+![Screenshot 2024-03-19 093636](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/62b116af-2f29-45cc-8755-330d5d3bcde0)
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
+![Screenshot 2024-03-19 093726](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/ec2c4881-54a0-4752-b1e4-f9527a64c7c9)
+
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
+![Screenshot 2024-03-19 093820](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/2304853a-c961-4be0-bdff-a0ccdb01506e)
+
+
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+
+![Screenshot 2024-03-19 093925](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/18602c7a-e431-461d-b99c-ad9e75d20a34)
+
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
+![Screenshot 2024-03-19 094030](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/80592077-478a-4a7e-bba3-823b345fa93e)
+
+
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+
+![Screenshot (96)](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/373daa2a-850d-41db-bd2b-c57788c07f18)
 
  
 #DNS Enumeration
