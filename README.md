@@ -117,7 +117,8 @@ In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
 
-![smtp](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/3c659d68-cf64-4e85-abbf-7f18b3ae6989)
+![smtp](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/6e69c136-1d94-4dde-a034-d71e997c56df)
+
 
 
 # Telnet for smtp enumeration
