@@ -112,9 +112,12 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
+![met](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/2e4ac59b-d763-4ae0-bceb-1c30cb246932)
+
+
 select any username in the first column of the above file and check the same
 
-![met](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/2e4ac59b-d763-4ae0-bceb-1c30cb246932)
+![smtp](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/3c659d68-cf64-4e85-abbf-7f18b3ae6989)
 
 
 # Telnet for smtp enumeration
