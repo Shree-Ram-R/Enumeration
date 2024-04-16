@@ -69,10 +69,10 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ![Screenshot (96)](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/373daa2a-850d-41db-bd2b-c57788c07f18)
 
  
-#DNS Enumeration
+# DNS Enumeration
 
 
-##DNS Recon
+## DNS Recon
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
@@ -85,7 +85,7 @@ Top level domain expansion
 
 
 
-##dnsenum
+## dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
 Get the host’s addresses (A record).
@@ -104,7 +104,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 ![dnsenum](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/ae212de7-0327-48db-88c0-fe93337d25d0)
 
 
-##smtp-user-enum
+## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
 ![tel](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/a71cc679-cfa8-4ff6-893a-628dced2addb)
@@ -117,7 +117,7 @@ select any username in the first column of the above file and check the same
 ![met](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/2e4ac59b-d763-4ae0-bceb-1c30cb246932)
 
 
-#Telnet for smtp enumeration
+# Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
@@ -132,6 +132,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+
+![smtp](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/f8d2677e-5889-4e2f-b114-e847f0b15932)
 
 
 ## RESULT:
