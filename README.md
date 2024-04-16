@@ -81,8 +81,7 @@ Top level domain expansion
 ## OUTPUT:
 
 
-
-
+![dnsrec](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/f4b82004-3313-4b61-8592-5dcfc577f020)
 
 
 
@@ -100,14 +99,22 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 
+## output
+
+![dnsenum](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/ae212de7-0327-48db-88c0-fe93337d25d0)
+
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+
+![tel](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/a71cc679-cfa8-4ff6-893a-628dced2addb)
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
 select any username in the first column of the above file and check the same
+
+![met](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/2e4ac59b-d763-4ae0-bceb-1c30cb246932)
 
 
 #Telnet for smtp enumeration
