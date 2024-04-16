@@ -122,9 +122,10 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+ ## Output
   
-  
+  ![tel](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/a41a5d91-728b-4717-8bbb-4c90338fecae)
+
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
@@ -133,7 +134,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 ## OUTPUT:
 
-![smtp](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/f8d2677e-5889-4e2f-b114-e847f0b15932)
+![smtp](https://github.com/Shree-Ram-R/Enumeration/assets/121288490/defd40c8-9c95-4aea-9001-4816e441e0ec)
 
 
 ## RESULT:
