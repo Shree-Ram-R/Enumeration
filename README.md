@@ -88,6 +88,7 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ```
 dnsrecon -d saveetha.ac.in
 dnsenum saveetha.ac.in
+smtp-user-enum -M VRFY -u root -t 103.21.58.16
 smtp-user-enum -M VRFY -u www-data -t 103.21.58.16
 head /etc/passwd
 telnet 103.21.58.16 25
