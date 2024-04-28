@@ -1,5 +1,5 @@
-# Enumeration
-Enumeration Techniques
+# EXP.NO:3
+# DATE:
 
 # Explore Google hacking and enumeration 
 
@@ -7,7 +7,7 @@ Enumeration Techniques
 
 To use Google for gathering information and perform enumeration of targets
 
-## STEPS:
+# ALGORITHM:
 
 ### Step 1:
 
@@ -26,7 +26,19 @@ Open terminal and try execute some kali linux commands
 Following Categories of pen test tools are identified:
 Information Gathering.
 
-Google Hacking:
+# Google Hacking:
+
+### COMMANDS:
+```
+site:yahoo.com
+site:yahoo.com and filetype:pdf
+site:yahoo.com and intext:password
+inurl:admin
+intitle:index of
+link:saveetha.ac.in
+cache:saveetha.ac.in
+
+```
 
 Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
 
@@ -71,6 +83,16 @@ cache: This operator allows you to view the cached version of a page. For exampl
  
 # DNS Enumeration
 
+### commands:
+
+```
+dnsrecon -d saveetha.ac.in
+dnsenum saveetha.ac.in
+smtp-user-enum -M VRFY -u www-data -t 103.21.58.16
+head /etc/passwd
+telnet 103.21.58.16 25
+nmap --script smtp-commands -p 25 103.21.58.16
+```
 
 ## DNS Recon
 provides the ability to perform:
