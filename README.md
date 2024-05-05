@@ -1,5 +1,5 @@
-# EXP.NO:3
-# DATE:
+# EXP.NO:03
+# DATE:05-03-2024
 
 # Explore Google hacking and enumeration 
 
